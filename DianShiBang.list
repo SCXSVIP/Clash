@@ -1,0 +1,15 @@
+# 内容:Google电视棒 首页
+# 数量:5条
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,mkapi.keeflys.com
+
+# IP检测
+DOMAIN,api.ip.sb
+DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+
+# Sub.Store
+DOMAIN-SUFFIX,vercel.app
