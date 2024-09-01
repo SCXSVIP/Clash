@@ -11,9 +11,14 @@ DOMAIN-SUFFIX,ipcac.org.cn
 DOMAIN-SUFFIX,sdb.com.cn
 DOMAIN-SUFFIX,boluopay.cn
 
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,easypay
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,myxskj
+DOMAIN-KEYWORD,xsvip
+DOMAIN-KEYWORD,cnvip
+DOMAIN-KEYWORD,xskjvip
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
