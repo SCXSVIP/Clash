@@ -1,319 +1,109 @@
-ACL4SSR_Online_Full.ini集合:
+订阅转换服务地址
+http://localhost:25500/sub
 
+https://dyzh.3344550.xyz/
+
+https://acl4ssr-sub.github.io/
+
+https://suburl.v1.mk/
+
+https://subconverters.com/
+
+潇洒模板
 https://cdn.jsdelivr.net/gh/SCXSVIP/Clash@main/ACL4SSR_Online_Full_Ios.ini
 
-https://gitcode.net/XSVIP/clash/-/raw/master/rule/ACL4SSR_Online_Full.ini
+https://jihulab.com/xsvpn/Clash/-/raw/main/ACL4SSR_Online_Full_Ios.ini
 
-https://gitcode.net/XSVIP/clash/-/raw/master/rule/ACL4SSR_Online_Full_Ios.ini
+https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
-https://raw.githubusercontent.com/yxcqr/ACL4SSR/master/ACL4SSR_Online_Full.ini
+https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
-https://gitea.com/zclkkk/ACL4SSR/raw/branch/master/Clash/config/ACL4SSR_Online_Full.ini
+https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
-https://gitea.com/breadmyth/Clash/raw/branch/main/ACL4SSR_Online_Full.ini
+https://g.3344550.xyz/https://raw.githubusercontent.com/myxskj/Clash/main/xskj.ini
 
-https://raw.githubusercontent.com/hope140/Clash/main/hope140.yaml
+出国工具集合：
+v2rayN：https://github.com/2dust/v2rayN
 
+clash verge rev: https://www.clashverge.dev/install.html
 
-Clash直接调用:
+clash meta for android: https://github.com/MetaCubeX/ClashMetaForAndroid
 
-https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
+karing: https://karing.app/download
 
-https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/out/clash.yaml
+爱分享的marco-chormego节点
+视频教程：https://youtu.be/5zm1e2SY1MU
 
-https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity.yml
+base64订阅链接：https://chromenodes.marcol.top/
 
-https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
+clash订阅链接：https://chromegoclash.marcol.top/
 
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 
+🚀公益机场免费节点-go4sharing-永久链接地址
+https://subsub.surge.sh/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml
+v2ray:https://api.2c.lol/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
+clash:https://api.2c.lol/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
+https://g.3344550.xyz/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 
-科学上网:
+🚀五叶-hkaa0-permalink
+https://g.3344550.xyz/https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/V2ray.txt
+https://g.3344550.xyz/https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/clash.yaml
+https://g.3344550.xyz/https://raw.githubusercontent.com/hkaa0/permalink/main/proxy/节点存放
 
-一、SSR
+🚀openproxylist-V2Ray
+https://openproxylist.com/v2ray/
+https://g.3344550.xyz/https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
+https://g.3344550.xyz/https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
 
-(一)SSR免费节点订阅地址(直接复制链接地址粘贴到订阅地址里即可)
+🚀GH-chengaopan-AutoMergePublicNodes-Base64
+https://g.3344550.xyz/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
+chengaopan-AutoMergePublicNodes-clash
+https://g.3344550.xyz/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 
-https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+🚀GH-Pawdroid-Free-servers-每6小时更新一次
+https://g.3344550.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 
-https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+🚀GH-Flikify-getNode-每1小时更新一次
+https://g.3344550.xyz/https://raw.githubusercontent.com/Flikify/getNode/main/v2ray.txt
 
-https://qiaomenzhuanfx.netlify.com/
+🚀GH-ts-sf-fly
+https://g.3344550.xyz/https://raw.githubusercontent.com/ts-sf/fly/main/v2
 
-https://muma16fx.netlify.com/
+🚀GH-Epodonios-v2ray-configs
+https://github.com/Epodonios/v2ray-configs
+All_Configs_base64_Sub
+vless
+vmess
+ss
+ssr
+trojan
 
-https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+🚀GH-Epodonios-v2ray-configs-Trojan
+https://g.3344550.xyz/https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt
+🚀GH-Epodonios-v2ray-configs-Trojan
+https://g.3344550.xyz/https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt
 
-https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+🚀GH-peasoft-NoMoreWalls
+https://g.3344550.xyz/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+https://g.3344550.xyz/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 
-https://youlianboshi.netlify.com/
+🚀GH-Barabama-FreeNodes
+https://github.com/Barabama/FreeNodes
 
-http://ss.pythonic.life/full/subscribe
+🚀GH-free18-v2ray
+https://github.com/XSVPN/free18-v2ray/tree/main?tab=readme-ov-file
 
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+🚀V2ray订阅：https://tt.vg/xBYek
+clash订阅(自建节点)：https://suo.st/22Oq24b
 
-(二)免费SSR账号
+🚀GH-yebekhe-V2Hub
+https://g.3344550.xyz/https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged
+https://g.3344550.xyz/https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/trojan
 
-网站1：https://www.youneed.win/free-ssr
+🚀GH-aiboboxx-v2rayfree
+https://github.com/aiboboxx/v2rayfree
+https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
-网站2：https://lncn.org/
-
-网站3：https://fanqiang.network/
-
-网站4：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
-
-二、V2ray
-
-(一)v2ray免费节点订阅地址(直接复制链接地址粘贴到订阅地址里即可)
-
-https://jiang.netlify.com/
-
-https://youlianboshi.netlify.com/
-
-https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
-
-https://raw.fastgit.org/freefq/free/master/v2
-
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
-
-(二)V2ary免费节点
-
-网站1：https://free-ss.site/
-
-网站2：https://bulink.xyz/ (需注册（要翻）,每月5G自建节点免费流量，不用打卡签到长期有效）
-
-网站3：https://www.freevpnnet.com/
-
-网站4：https://view.freev2ray.org/
-
-网站5：https://my.freev2ray.org/
-
-三、其它免费节点订阅地址
-
-https://jiang.netlify.com/
-
-https://youlianboshi.netlify.com/
-
-https://youlianboshi.netlify.app/
-
-https://raw.githubusercontent.com/freefq/free/master/v2
-
-https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
-
-https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
-
-https://raw.fastgit.org/freefq/free/master/v2
-
-https://suo.yt/lUp4yGo
-
-https://hyt-allen-xu.netlify.app
-
-https://suo.yt/lUp4yGo
-
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
-
-https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
-
-https://raw.githubusercontent.com/StormragerCN/v2ray/main/v2ray
-
-https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
-
-https://ivapp.cn/wyy.txt
-
-四、proxy代理科学上网
-
-(一)proxy代理网站：
-
-https://premproxy.com/list/
-
-http://spys.one/
-
-五、杂七杂八网址 免费节点：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
-
-https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
-
-https://github.com/freefq/free
-
-节点（每天0点改密码）：https://io.freess.info/
-
-六、Clash、ShadowRocket(小火箭）、Surge等节点网址：
-
-https://etproxypool.ga/
-
-https://proxy.yugogo.xyz/
-
-https://proxypool-guest997.herokuapp.com/
-
-https://sspool.nl/
-
-https://free.kingfu.cf/
-
-https://sspool.herokuapp.com/
-
-https://free.dswang.ga/
-
-https://sspool.herokuapp.com/
-
-https://my.ishadowx.biz/
-
-七、分享节点的telegram群组
-
-https://t.me/baipiaojiedian
-
-https://t.me/freeshadowsock
-
-https://t.me/ShadowsocksRssr
-
-https://t.me/ripaojiedian
-
-https://t.me/byxiaoxi
-
-https://t.me/ssrList
-
-https://t.me/ssList
-
-https://t.me/V2List
-
-https://t.me/SSRSUB
-
-内容来源：内容都是网上搜集，不保证一定可用。
-
-* CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
-* 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
-* 仅推荐未root的安卓手机使用。
-* Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
-* [关于中国的互联网](https://github.com/ACL4SSR/ACL4SSR/wiki/关于中国的互联网)
-  
-# 安卓 SSR 去广告ACL规则
-  * 屏蔽小米手机和魅族flyme rom系统广告
-  * 国内网站均直接连接
-  * 屏蔽常用视频网站广告
-  * 屏蔽常用网站广告、其他流媒体网站广告
-  * 屏蔽部分应用程序开屏广告
-  * 屏蔽部分运营商劫持网页弹出的漂浮球广告、流量统计
-  * 拦截常用应用程序的隐私跟踪、行为分析、数据统计
-
-
-
-# 版本解释
-
-## SSR直接可用的规则
-
-文件               | 默认  | 去广告  | 局域网 |   国内IP段  |   国内域名    |     国外
-----              | ----  |  ----  | ----  |   ----     |     ----     |    ----
-[banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl)         |  代理  |   是   |  直连  |    有-直连  | 常用域名-直连  |  代理-常用国外域名增强
-[onlybanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl)     |  代理  |   是   |  直连  |    无      |    无         |  代理-常用国外域名增强
-[nobanAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl)       |  代理  |   否   |  直连  |    有-直连  |  常用域名-直连 |  全局代理
-[backcn-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl)  |  代理  |   是   |  直连  |    有-代理  |    无         | 直连-gfwlist列表 
-[gfwlist-banAD.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl) |  直连  |   是   |  直连  |    无      |    无         |  代理-gfwlist列表
-[fullgfwlist.acl](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl )   |  直连  |   否   |  直连  |    无      |    无         |  代理-gfwlist列表
-[gfwlist-user.rule](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule) |  直连  |   是   |  直连  |    无      |     无        |  代理-gfwlist列表
-
-
-
-## 其他规则转换 clash Quantumul Surge Surfboard Trojan
-
-​	前后端都是开源的，自己随便搭建。自建的话，只自建后端已经足够
-
-前端：[sub-web]( https://github.com/CareyWang/sub-web)
-
-后端：[subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md) 
-
-**支持类型**
-
-| 类型                         | 作为源类型 | 作为目标类型 | 参数                |
-| ---------------------------- | :--------: | :----------: | ------------------- |
-| Clash                        |     ✓      |      ✓       | clash               |
-| ClashR                       |     ✓      |      ✓       | clashr              |
-| Quantumult (完整配置)        |     ✓      |      ✓       | quan                |
-| Quantumult X (完整配置)      |     ✓      |      ✓       | quanx               |
-| Loon                         |     ✓      |      ✓       | loon                |
-| Mellow                       |     ✓      |      ✓       | mellow              |
-| SS (SIP002)                  |     ✓      |      ✓       | ss                  |
-| SS (软件订阅)                |     ✓      |      ✓       | sssub               |
-| SSD                          |     ✓      |      ✓       | ssd                 |
-| SSR                          |     ✓      |      ✓       | ssr                 |
-| Surfboard                    |     ✓      |      ✓       | surfboard           |
-| Surge 2                      |     ✓      |      ✓       | surge&ver=2         |
-| Surge 3                      |     ✓      |      ✓       | surge&ver=3         |
-| Surge 4                      |     ✓      |      ✓       | surge&ver=4         |
-| Trojan                       |     ✓      |      ✓       | trojan              |
-| V2Ray                        |     ✓      |      ✓       | v2ray               |
-| 类 TG 代理的 HTTP/Socks 链接 |     ✓      |      ×       | 仅支持 `&url=` 调用 |
-
-
-
-## Clash规则碎片
-
-主要文件在clash文件夹下，只是一些规则碎片，可以配合一些订阅转换进行使用。
-
-具体怎么使用需要看对应软件配置是怎么写的，还要请大家阅读你所使用的软件文档，看是否能使用
-
-示例：项目里/Clash/config/目录下存放的是 [subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md#外部配置)的 配置示例
-
-| 文件                   | 类型                 | 解释                                                         |
-| ---------------------- | -------------------- | ------------------------------------------------------------ |
-| BanAD.list             | 规则碎片-去广告      | 只包含常见广告关键字、广告联盟。无副作用，放心使用           |
-| BanProgramAD.list      | 规则碎片-去广告      | 包含常用应用的各种去广告规则。可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则） |
-| BanEasyListChina.list  | 规则碎片-去广告      | AdblockPlus中的中国所有的屏蔽域名                            |
-| LocalAreaNetwork.list  | 规则碎片-直连        | 本地地址和路由器直连域名啥的                                 |
-| ChinaDomain.list       | 规则碎片-直连        | 国内常见域名、直连CDN等。（很全，常用网址都有）              |
-| ChinaCompanyIp.list    | 规则碎片-直连        | 国内BAT公司及云服务厂商的IP段。所有在该云服务上的网站都可以直连。比如你网站在阿里云香港都可以直连。 |
-| ChinaIp.list           | 规则碎片-直连        | IPIP的国内地址段。比GeoIp更好。电脑性能好，可以引入          |
-| Download.list          | 规则碎片-直连        | 一些下载用的域名                                             |
-| Apple.list             | 规则碎片             | 苹果公司的所有域名                                           |
-| Microsoft.list         | 规则碎片             | 微软公司的所有域名                                           |
-| OneDrive.list          | 规则碎片             | OneDrive                                                     |
-| GoogleCN.list          | 规则碎片-直连        | 谷歌在中国能直连的网址列表                                   |
-| Telegram.list          | 规则碎片-代理        | Telegram的所有域名                                           |
-| Netflix.list           | 规则碎片-代理        | Netflix的所有域名                                            |
-| ProxyGFWlist.list      | 规则碎片-代理        | GFW的全量列表                                                |
-| ProxyLite.list         | 规则碎片-代理        | 比较精简的代理列表，包含常用的，以及被污染的域名             |
-| GeneralClashConfig.yml | clash配置文件        | 放行一堆国内的常用域名，配合系统代理更牛逼。 配置很全，自带中文注释。可以自行使用 |
-| pref.ini               | subconverter配置文件 | 更改了一些基础配置，将规则变成ACL4SSR                        |
-
-
-
-# ♻️ SS/SSR ACL Files Download：
-* ACL更新地址（**白名单**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl
-* ACL更新地址（**黑名单**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl
-* ACL更新地址（**全局**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl
-* ACL更新地址（**仅GFWList**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl （原版SS**能且仅能**使用此规则）
-* ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl
-* ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl
-* SSR C# GFWList user.rule ：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule
-
-
-* SS：https://github.com/shadowsocks
-* SSR-WIN：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
-* SSR-安卓：https://github.com/shadowsocksr/shadowsocksr-android/releases
-
-# ♻️ Surge/Shadowrocket Config File Download：
-* 请到相关项目页面根据说明配置 https://github.com/lhie1/Rules
-
-📋 教程 / 说明：
-* 打开SSR->路由->自定义acl文件->输入下载地址->更新
-* 再次更新，点击软件页面底部的更新即可
-
-
-# Root手机推荐：
-* 1.自带去广告的VIA浏览器 http://www.coolapk.com/apk/mark.via
-* 2.HOSTS 广告快走中国版 http://www.coolapk.com/apk/mark.via
-* 3.HOSTS 广告快走开AdAway http://www.coolapk.com/apk/org.adaway
-* https://github.com/neko-dev/neohosts
-* Google Hosts 请移步 https://github.com/googlehosts/hosts
-
-
-# 注：
-* 参照lhie1大神的surge规则改编，致谢!! https://github.com/lhie1/Surge
-
-* 浏览器内部广告太多了，单凭几百条规则可能过滤不过来。少许遗漏，请谅解
-
-* 有问题请发issue,说明状况和所用规则。
-
-* temp文件夹为历史存档 要找以前的版本可以下那个
-	
-
-# License		
-[![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
-* CC-BY-SA-4.0
+🚀GH-aiboboxx-clashfree
+https://github.com/aiboboxx/clashfree
+https://github.com/aiboboxx/clashfree/blob/main/clash.yml
