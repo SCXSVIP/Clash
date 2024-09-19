@@ -1,12 +1,22 @@
 订阅转换服务地址
 
+潇洒本地：
+
 http://localhost:25500/sub
+
+潇洒订阅转换：
 
 https://dyzh.3344550.xyz/
 
+ACL4SSR在线订阅转换：
+
 https://acl4ssr-sub.github.io/
 
+肥羊在线订阅转换：
+
 https://suburl.v1.mk/
+
+全面在线订阅转换：
 
 https://subconverters.com/
 
@@ -17,8 +27,6 @@ https://cdn.jsdelivr.net/gh/SCXSVIP/Clash@main/ACL4SSR_Online_Full_Ios.ini
 https://jihulab.com/xsvpn/Clash/-/raw/main/ACL4SSR_Online_Full_Ios.ini
 
 https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
-
-https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
 https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
