@@ -1,4 +1,5 @@
 订阅转换服务地址
+
 http://localhost:25500/sub
 
 https://dyzh.3344550.xyz/
@@ -10,6 +11,7 @@ https://suburl.v1.mk/
 https://subconverters.com/
 
 潇洒模板
+
 https://cdn.jsdelivr.net/gh/SCXSVIP/Clash@main/ACL4SSR_Online_Full_Ios.ini
 
 https://jihulab.com/xsvpn/Clash/-/raw/main/ACL4SSR_Online_Full_Ios.ini
@@ -23,16 +25,24 @@ https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.
 https://g.3344550.xyz/https://raw.githubusercontent.com/myxskj/Clash/main/xskj.ini
 
 出国工具集合：
-v2rayN：https://github.com/2dust/v2rayN
 
-clash verge rev: https://www.clashverge.dev/install.html
+v2rayN：
 
-clash meta for android: https://github.com/MetaCubeX/ClashMetaForAndroid
+https://github.com/2dust/v2rayN
 
-karing: https://karing.app/download
+clash verge rev: 
+
+https://www.clashverge.dev/install.html
+
+clash meta for android: 
+
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
+karing: 
+
+https://karing.app/download
 
 爱分享的marco-chormego节点
-视频教程：https://youtu.be/5zm1e2SY1MU
 
 base64订阅链接：https://chromenodes.marcol.top/
 
@@ -42,8 +52,15 @@ clash订阅链接：https://chromegoclash.marcol.top/
 🚀公益机场免费节点-go4sharing-永久链接地址
 
 https://subsub.surge.sh/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml
-v2ray:https://api.2c.lol/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
-clash:https://api.2c.lol/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
+
+v2ray:
+
+https://api.2c.lol/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
+
+clash:
+
+https://api.2c.lol/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
+
 https://g.3344550.xyz/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 
 🚀五叶-hkaa0-permalink
@@ -55,7 +72,9 @@ https://g.3344550.xyz/https://raw.githubusercontent.com/hkaa0/permalink/main/pro
 🚀openproxylist-V2Ray
 
 https://openproxylist.com/v2ray/
+
 https://g.3344550.xyz/https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt
+
 https://g.3344550.xyz/https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt
 
 🚀GH-chengaopan-AutoMergePublicNodes-Base64
