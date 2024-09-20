@@ -47,7 +47,7 @@ v2ray:	https://api.2c.lol/sub?target=v2ray&url=https%3A%2F%2Fraw.githubuserconte
 
 clash:	https://api.2c.lol/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
 
-		https://g.3344550.xyz/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+clash:	https://g.3344550.xyz/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 
 🚀五叶-hkaa0-permalink
 
