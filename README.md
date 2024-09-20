@@ -115,13 +115,9 @@ https://github.com/Barabama/FreeNodes
 
 https://github.com/XSVPN/free18-v2ray/tree/main?tab=readme-ov-file
 
-🚀V2ray订阅：
+🚀V2ray订阅：	https://tt.vg/xBYek
 
-https://tt.vg/xBYek
-
-clash订阅(自建节点)：
-
-https://suo.st/22Oq24b
+🚀clash订阅(自建节点)：	https://suo.st/22Oq24b
 
 🚀GH-yebekhe-V2Hub
 
