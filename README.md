@@ -1,26 +1,16 @@
 订阅转换服务地址
 
-潇洒本地：
+潇洒本地：	http://localhost:25500/sub
 
-http://localhost:25500/sub
+潇洒订阅转换：	https://dyzh.3344550.xyz/
 
-潇洒订阅转换：
+ACL4SSR在线订阅转换：	https://acl4ssr-sub.github.io/
 
-https://dyzh.3344550.xyz/
+肥羊在线订阅转换：	https://suburl.v1.mk/
 
-ACL4SSR在线订阅转换：
+全面在线订阅转换：	https://subconverters.com/
 
-https://acl4ssr-sub.github.io/
-
-肥羊在线订阅转换：
-
-https://suburl.v1.mk/
-
-全面在线订阅转换：
-
-https://subconverters.com/
-
-潇洒模板
+潇洒模板:
 
 https://cdn.jsdelivr.net/gh/SCXSVIP/Clash@main/ACL4SSR_Online_Full_Ios.ini
 
@@ -34,21 +24,13 @@ https://g.3344550.xyz/https://raw.githubusercontent.com/myxskj/Clash/main/xskj.i
 
 出国工具集合：
 
-v2rayN：
+v2rayN：	https://github.com/2dust/v2rayN
 
-https://github.com/2dust/v2rayN
+clash verge rev: 	https://www.clashverge.dev/install.html
 
-clash verge rev: 
+clash meta for android: 	https://github.com/MetaCubeX/ClashMetaForAndroid
 
-https://www.clashverge.dev/install.html
-
-clash meta for android: 
-
-https://github.com/MetaCubeX/ClashMetaForAndroid
-
-karing: 
-
-https://karing.app/download
+karing: 	https://karing.app/download
 
 爱分享的marco-chormego节点
 
