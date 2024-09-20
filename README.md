@@ -34,24 +34,20 @@ karing: 	https://karing.app/download
 
 爱分享的marco-chormego节点
 
-base64订阅链接：https://chromenodes.marcol.top/
+base64订阅链接：	https://chromenodes.marcol.top/
 
-clash订阅链接：https://chromegoclash.marcol.top/
+clash订阅链接：		https://chromegoclash.marcol.top/
 
 
 🚀公益机场免费节点-go4sharing-永久链接地址
 
 https://subsub.surge.sh/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml
 
-v2ray:
+v2ray:	https://api.2c.lol/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
 
-https://api.2c.lol/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
+clash:	https://api.2c.lol/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
 
-clash:
-
-https://api.2c.lol/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml&insert=false
-
-https://g.3344550.xyz/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+		https://g.3344550.xyz/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 
 🚀五叶-hkaa0-permalink
 
