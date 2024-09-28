@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,boluopay.cn
 DOMAIN-SUFFIX,unimarspay.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,easypay
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,xskj
@@ -23,18 +24,6 @@ DOMAIN-KEYWORD,xskjvip
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-
-# 国内DNS
-DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.pub
-IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-IP-CIDR,180.76.76.76/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,114.114.115.115/32,no-resolve
 
 
 # 360
@@ -320,6 +309,9 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
 
 # Vip 唯品会
 DOMAIN-SUFFIX,appsimg.com
