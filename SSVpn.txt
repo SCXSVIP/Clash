@@ -1,3 +1,19 @@
+#视频教程地址：
+https://www.youtube.com/watch?v=FXMl9Dkhb5Y
+
+# 20241021一个脚本获取12个免费ss高速节点
+
+univzeros.notion.site
+
+# 1.python脚本在线执行地址
+
+https://hw.zhibodizhi.top/
+
+
+#谷歌colab
+https://colab.research.google.com/
+
+# 2.脚本代码如下
 !pip install pyaes
 import requests
 import base64
