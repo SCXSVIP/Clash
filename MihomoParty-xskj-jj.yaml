@@ -151,7 +151,7 @@ proxy-groups:
   - {name: 🔯 台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)台湾|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|新加坡|SG|坡|狮城|🇸🇬|Singapore|韩国|KR|首尔|春川|🇰🇷|Korea"}
   - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|港|HK|日|JP|新|🇸🇬|台|🇹🇼|韩|🇰🇷|美|US)).)*$"}
 
-  - {name: ⛑ 全部节点, type: select, include-all: true}
+  - {name: ⛑ 全部节点, type: select, include-all: true, filter: "^((?!(直连)).)*$"}
 rules:
   - RULE-SET,private_domain,🟢 直连
   - RULE-SET,direct1,🚩 国内网络
