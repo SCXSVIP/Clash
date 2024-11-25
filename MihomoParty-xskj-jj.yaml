@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "http://127.0.0.1:38324/download/collection/%E6%BD%87%E6%B4%92%E8%AE%A2%E9%98%85%E7%BB%84%E5%90%88"
+    url: "http://127.0.0.1:38324/download/%E6%BD%87%E6%B4%92%E6%B5%8B%E8%AF%95"
       
 # 用于下载订阅时指定UA
 global-ua: clash.meta
@@ -156,6 +156,7 @@ rules:
   - RULE-SET,private_domain,🟢 直连
   - RULE-SET,direct1,🚩 国内网络
   - RULE-SET,proxylite,🏳️‍🌈 国外网络
+  - RULE-SET,Global,🏳️‍🌈 国外网络
   - RULE-SET,github_domain,👨🏿‍💻 哥特哈布
   - RULE-SET,youtube_domain,📹 油管视频
   - RULE-SET,google_domain,🛰 谷歌服务
@@ -179,6 +180,7 @@ rule-providers:
   direct1: { !!merge <<: *class, url: "https://raw.githubusercontent.com/SCXSVIP/Mihomo/refs/heads/main/Direct.list" }
   proxylite: { !!merge <<: *xskj, url: "https://raw.githubusercontent.com/SCXSVIP/Mihomo/refs/heads/main/ProxyLite.list" }
   ai: { !!merge <<: *xskj, url: "https://raw.githubusercontent.com/SCXSVIP/Mihomo/refs/heads/main/AI.list" }
+  Global: { !!merge <<: *xskj, url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list" }
   youtube_domain: { !!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs" }
   google_domain: { !!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs" }
   github_domain: { !!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs" }
