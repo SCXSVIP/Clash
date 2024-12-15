@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "http://127.0.0.1:38324/download/%E6%BD%87%E6%B4%92%E6%B5%8B%E8%AF%95"
+    url: "http://127.0.0.1:38324/download/%E6%B4%8B%E5%B0%8F%E5%93%A5%E8%8A%82%E7%82%B9"
       
 # 用于下载订阅时指定UA
 global-ua: clash.meta
@@ -147,9 +147,9 @@ proxy-groups:
   - {name: 🐟 漏网之鱼,!!merge <<: *pr}
 
   - {name: ♻️ 所有自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"} 
-  - {name: 🚅 港台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "((?i)香港|香|港|HK|Hong Kong|🇭🇰|HongKong|台湾|台|新北|彰化|🇹🇼|TW|Tai Wan|TaiWan|日本|日|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|JP|Japan|新加坡|新|坡|狮城|SG|🇸🇬|Singapore|韩国|韩|韓|首尔|春川|KR||🇰🇷|KOR|Korea)^((?!(直连)).)*$"}
-  - {name: 🔯 台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "((?i)台湾|台|新北|彰化|🇹🇼|TW|Tai Wan|TaiWan|日本|日|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|JP|Japan|新加坡|新|坡|狮城|SG|🇸🇬|Singapore|韩国|韩|韓|首尔|春川|KR||🇰🇷|KOR|Korea)^((?!(直连)).)*$"}
-  - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|香港|香|港|HK|Hong Kong|🇭🇰|HongKong|台湾|台|新北|彰化|🇹🇼|TW|Tai Wan|TaiWan|日本|日|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|JP|Japan|新加坡|新|坡|狮城|SG|🇸🇬|Singapore|韩国|韩|韓|首尔|春川|KR||🇰🇷|KOR|Korea|美国|美|🇺🇲|US||🇺🇸|United States|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)).)*$"}
+  - {name: 🚅 港台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|🇭🇰|HongKong|台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
+  - {name: 🔯 台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
+  - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|港|HK|🇭🇰|HongKong|台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea)).)*$"}
 
   - {name: ⛑ 全部节点, type: select, include-all: true, filter: "^((?!(直连)).)*$"}
 rules:
