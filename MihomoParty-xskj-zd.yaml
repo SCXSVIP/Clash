@@ -11,7 +11,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "http://127.0.0.1:38324/download/collection/%E6%BD%87%E6%B4%92%E8%AE%A2%E9%98%85%E7%BB%84%E5%90%88"
+    url: "http://127.0.0.1:38324/download/%E5%A4%A7%E7%99%BD%E7%BD%91%E7%BB%9C"
       
 # 用于下载订阅时指定UA
 global-ua: clash.meta
@@ -148,7 +148,7 @@ proxy-groups:
   - {name: 🍎 苹果服务, type: select, proxies: [🟢 直连, 🚀 节点选择]}
   - {name: 🎯 全球直连, type: select, proxies: [🟢 直连, 🚀 节点选择]}
   - {name: 🐟 漏网之鱼, <<: *pr}
-  - {name: 🌐 其它节点, type: select, include-all: true, filter: "^((?!(直连|香港|香|港|HK|Hong Kong|🇭🇰|HongKong|台湾|台|新北|彰化|🇹🇼|TW|Tai Wan|TaiWan|日本|日|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|JP|Japan|新加坡|新|坡|狮城|SG|🇸🇬|Singapore|韩国|韩|韓|首尔|春川|KR||🇰🇷|KOR|Korea|美国|美|🇺🇲|US||🇺🇸|United States|纽约|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)).)*$"} 
+  - {name: 🌐 其它节点, type: select, include-all: true, filter: "^((?!(直连|香港|香|港|HK|Hong Kong|🇭🇰|HongKong|台湾|台|新北|彰化|🇹🇼|TW|Tai Wan|TaiWan|日本|日|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|JP|Japan|新加坡|新|坡|狮城|SG|🇸🇬|Singapore|韩国|韩|韓|首尔|春川|KR||🇰🇷|KOR|Korea|美国|美|🇺🇲|US||🇺🇸|United States)).)*$"} 
 
   - {name: ♻️ 所有自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"} 
   - {name: 🚅 港台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|🇭🇰|HongKong|台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
@@ -156,7 +156,7 @@ proxy-groups:
   - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|港|HK|🇭🇰|HongKong|台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea)).)*$"}
  
   - {name: 🇭🇰 香港自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|🇭🇰|(?i)Hong))^((?!(直连|台|日|韩|新|深|美)).)*$"}
-  - {name: 🇯🇵 日本自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(日|JP|🇯🇵|(?i)Japan))^((?!(直连|港|台|韩|新|美|直连)).)*$" }
+  - {name: 🇯🇵 日本自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(日|JP|🇯🇵|(?i)Japan))^((?!(直连|港|台|韩|新|美)).)*$" }
   - {name: 🇸🇬 狮城自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新|SG|🇸🇬|(?i)Singapore))^((?!(直连|港|台|韩|日|美)).)*$" }
   - {name: 🇹🇼 台湾自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|TW|🇹🇼|(?i)Taiwan))^((?!(直连|港|日|韩|新|美)).)*$" }
   - {name: 🇰🇷 韩国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(韩|KR|🇰🇷|(?i)Korea))^((?!(直连|港|台|日|新|美)).)*$" }
