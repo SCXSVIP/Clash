@@ -147,9 +147,9 @@ proxy-groups:
   - {name: 🐟 漏网之鱼,!!merge <<: *pr}
 
   - {name: ♻️ 所有自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"} 
-  - {name: 🚅 港台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|🇭🇰|HongKong|台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
-  - {name: 🔯 台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
-  - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|港|HK|🇭🇰|HongKong|台|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea)).)*$"}
+  - {name: 🚅 港台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(香港|HK|🇭🇰|HongKong|台湾|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
+  - {name: 🔯 台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台湾|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea))"}
+  - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|香港|HK|🇭🇰|HongKong|台湾|TW|🇹🇼|Tai|日|JP|🇯🇵|Japan|新|SG|🇸🇬|Singapore|韩|KR|🇰🇷|Korea)).)*$"}
 
   - {name: ⛑ 全部节点, type: select, include-all: true, filter: "^((?!(直连)).)*$"}
 rules:
