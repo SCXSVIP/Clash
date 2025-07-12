@@ -1,0 +1,373 @@
+# 机场订阅
+proxy-providers:
+
+  🦜xg25418-YG-vless:
+    url: "https://xsyg25417.xskjsvip.dpdns.org/xs/pty"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🦜xg25418-YG-trojan:
+    url: "https://xg25418.xskjsvip.dpdns.org/xs/pcl"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  ✈潇洒-iku:
+    url: "https://6xvzd.no-mad-world.club/link/8qdpMT5zIZTrFZNF?clash=3"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🛩山城-iku:
+    url: "hhttps://gldhm.no-mad-world.club/link/cIaAF9T1a7qgsa0E?clash=3"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🥅六扇门公益:
+    url: "https://lsmgy.xygyx.ggff.net/sub/hong"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🎃CM-xsgg25-日本:
+    url: "https://xsgg25.xsgsvip.dpdns.org/xsgg?sub=VLESS.fxxk.dedyn.io&proxyip=ProxyIP.JP.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🤠周润发订阅-xsg2025-香港:
+    url: "https://xsg2025.xsgsvip.dpdns.org/xsg?sub=zrf.zrf.me&proxyip=ProxyIP.HK.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🤠周润发订阅-xsg2025-美国:
+    url: "https://xsg2025.xsgsvip.dpdns.org/xsg?sub=zrf.zrf.me&proxyip=ProxyIP.US.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🌦潇洒哥2025-青云志日本:
+    url: "https://xsg2025.xsgsvip.dpdns.org/xsg?sub=dy.yomoh.ggff.net&proxyip=ProxyIP.JP.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🤠xsgg25-Mingyu狮城:
+    url: "https://xsgg25.xsgsvip.dpdns.org/xsgg?sub=sub.keaeye.icu&proxyip=ProxyIP.SG.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🧚‍逍遥散仙-Kristi新加坡-xycc24424:
+    url: "https://xycc24424.xskj.dedyn.io/xysx?sub=sub.mot.cloudns.biz&proxyip=ProxyIP.SG.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🧚‍逍遥散仙-Kristi新加坡-xycc24424:
+    url: "https://xycc24424.xskj.dedyn.io/xysx?sub=sub.mot.cloudns.biz&proxyip=ProxyIP.SG.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🤠xsgg25-Moist_R-日本:
+    url: "https://xsgg25.xsgsvip.dpdns.org/xsgg?sub=owo.o00o.ooo&proxyip=ProxyIP.JP.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🤠xsgg25-Moist_R-香港:
+    url: "https://xsgg25.xsgsvip.dpdns.org/xsgg?sub=owo.o00o.ooo&proxyip=ProxyIP.HK.CMLiussss.net"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  🎃CMliu防失联应急:
+    url: "https://SOS.CMLiussss.net/auto"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  💦BPB-xysxwk250428:
+    url: "https://xysxwk250428.3344550.xyz/sub/full-normal/b2399c08-88a1-4b1a-b763-1334a31033ee?app=clash#BPB-Full-Normal"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  💦BPB-xsbb25420:
+    url: "https://xsbb25420.xskj999.ggff.net/sub/full-normal/3cf70fae-2340-4365-bf3a-81e5dd12540f?app=clash#BPB-Full-Normal"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  飞链:
+    url: "https://user.flylink.cyou/api/v1/client/subscribe?token=1715b50221a6c6083e13bfcd0235305d"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  极链:
+    url: "https://fdhf-jhfksf.jilian.store/api/jilian/a0b79c600685bc8a0762823905905774"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  Free Cloud:
+    url: "https://prod.222222212.xyz/api/v1/client/subscribe?token=f70233c2e3465cddc4770317f923a03e"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+  漏网之鱼:
+    url: "https://aluzz.mmzhk.website/api/v1/client/subscribe?token=fbe28e76e35eaae872f5212da8f66cd6"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 🟢 直连
+
+# 节点信息
+proxies:
+  - {name: 🟢 直连, type: direct}
+
+# 全局配置 
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
+allow-lan: true
+bind-address: "*"
+ipv6: false
+unified-delay: true
+tcp-concurrent: true
+log-level: warning
+find-process-mode: 'off'
+# interface-name: en0
+global-client-fingerprint: chrome
+keep-alive-idle: 600
+keep-alive-interval: 15
+disable-keep-alive: false
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+# 控制面板，external-ui 路径如果出现报错，根据你使用的插件进行调整，比如openclash改为： /etc/openclash/run  ，裸核跑改为/etc/mihomo/run
+# 因容易造成新手面板启动问题，我注释掉了，需要的自行开启
+#external-controller: 0.0.0.0:9090
+#secret: ""
+#external-ui: "/etc/nikki/run"
+#external-ui-name: zashboard
+#external-ui-url: "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip"
+
+# 嗅探
+sniffer:
+  enable: true
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+    TLS:
+      ports: [443, 8443]
+    QUIC:
+      ports: [443, 8443]
+  force-domain:
+    - "+.v2ex.com"
+  skip-domain:
+    - "+.baidu.com"
+
+# 入站  
+tun:
+  enable: true
+  # system/gvisor/mixed
+  stack: mixed
+  dns-hijack: ["any:53", "tcp://any:53"]
+  auto-route: true
+  auto-redirect: true
+  auto-detect-interface: true
+
+# DNS模块
+dns:
+  enable: true
+  listen: 0.0.0.0:1053
+  ipv6: false
+  respect-rules: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 28.0.0.1/8
+  fake-ip-filter-mode: blacklist
+  fake-ip-filter:
+    - "rule-set:private_domain,cn_domain"
+    - "+.msftconnecttest.com"
+    - "+.msftncsi.com"
+    - "time.*.com"
+    - "+.market.xiaomi.com"
+  default-nameserver:
+    - 223.5.5.5
+  proxy-server-nameserver:
+    - https://223.5.5.5/dns-query
+  # namesever尽量用运营商提供的DNS
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  
+# 策略组
+proxy-groups:
+  - {name: 🚀 节点选择, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 👨🏿‍💻 哥特哈布, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 📹 油管视频, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 📲 电报通讯, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🛰 谷歌服务, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🤖 人工智能, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🎵 国外抖音, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🎥 国外媒体, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🏳️‍🌈 国外网络, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🚩 国内网络, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+  - {name: 🎯 全球直连, type: select, proxies: [🟢 直连, 🚀 节点选择]}
+  - {name: 🐟 漏网之鱼, type: select, proxies: [♻️ 所有自动,🚅 港台日新韩自动,🔯 台日新韩自动,🌐 其他自动,⛑ 全部节点,🟢 直连]}
+
+  - {name: ♻️ 所有自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"} 
+  - {name: 🚅 港台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|台湾|TW|日|JP|新|SG|韩|KR|(?i)TaiWan|Japan|Singapore|Korea))^((?!(美|us|unitedstates|united states|cmcc|ct|cn|v6)).)*$"}
+  - {name: 🔯 台日新韩自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(台湾|TW|日|JP|新|SG|韩|KR|(?i)Hong|TaiWan|Japan|Singapore|Korea))^((?!(港|HK|美|us|unitedstates|united states|cmcc|ct|cn|v6)).)*$"}
+  - {name: 🌐 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连|港|HK|台湾|TW|日|JP|新|SG|韩|KR|(?i)TaiWan|Japan|Singapore|Korea)).)*$"}
+  - {name: ⛑ 全部节点, type: select, include-all: true}
+
+
+# 规则匹配
+# 此规则部分没有做防泄露处理，因为弊严重大于利！
+rules:
+  - DOMAIN-SUFFIX,eycard.cn,🟢 直连
+  - RULE-SET,private_domain,🟢 直连
+  - RULE-SET,direct1,🚩 国内网络
+  - RULE-SET,proxylite,🏳️‍🌈 国外网络
+  - RULE-SET,Global,🏳️‍🌈 国外网络
+  - RULE-SET,github_domain,👨🏿‍💻 哥特哈布
+  - RULE-SET,youtube_domain,📹 油管视频
+  - RULE-SET,google_domain,🛰 谷歌服务
+  - RULE-SET,ai,🤖 人工智能
+  - RULE-SET,tiktok_domain,🎵 国外抖音
+  - RULE-SET,netflix_domain,🎥 国外媒体
+  - RULE-SET,gfw_domain,🚀 节点选择
+  - RULE-SET,geolocation-!cn,🚀 节点选择
+  - RULE-SET,cn_domain,🎯 全球直连
+  - RULE-SET,google_ip,🛰 谷歌服务,no-resolve
+  - RULE-SET,netflix_ip,🎥 国外媒体,no-resolve
+  - RULE-SET,telegram_ip,📲 电报通讯,no-resolve
+  - RULE-SET,cn_ip,🎯 全球直连
+  - MATCH,🐟 漏网之鱼
+
+# 规则集
+rule-anchor:
+  ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
+  domain: &domain {type: http, interval: 86400, behavior: domain, format: mrs}
+  xskj: &xskj {type: http, interval: 86400, behavior: domain, format: text}
+  class: &class {type: http, interval: 86400, behavior: classical, format: text}
+rule-providers: 
+  private_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs" }
+  direct1: { !!merge <<: *class, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Mihomo/refs/heads/main/Direct.list" }
+  proxylite: { !!merge <<: *xskj, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Mihomo/refs/heads/main/ProxyLite.list" }
+  ai: { !!merge <<: *xskj, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Mihomo/refs/heads/main/AI.list" }
+  Global: { !!merge <<: *xskj, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list" }
+  youtube_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs" }
+  google_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs" }
+  github_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs" }
+  telegram_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.mrs" }
+  netflix_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.mrs" }
+  paypal_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.mrs" }
+  onedrive_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.mrs" }
+  microsoft_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.mrs" }
+  apple_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.mrs" }
+  speedtest_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ookla-speedtest.mrs" }
+  tiktok_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs" }
+  gfw_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.mrs" }
+  geolocation-!cn: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs" }
+  cn_domain: { !!merge <<: *domain, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs" }
+  
+  cn_ip: { !!merge <<: *ip, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs" }
+  google_ip: { !!merge <<: *ip, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs" }
+  telegram_ip: { !!merge <<: *ip, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.mrs" }
+  netflix_ip: { !!merge <<: *ip, url: "https://g.3344550.xyz/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs" }
