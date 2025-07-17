@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
-DOMAIN-SUFFIX,eycard.cn
 DOMAIN-SUFFIX,bhecard.com
 DOMAIN-SUFFIX,italent.cn
 DOMAIN-SUFFIX,ipcac.org.cn
@@ -22,6 +21,8 @@ DOMAIN-SUFFIX,33445500.xyz
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 DOMAIN-KEYWORD,easypay
+DOMAIN-KEYWORD,eycard
+DOMAIN-KEYWORD,bhecard
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,xskj
 DOMAIN-KEYWORD,myxskj
